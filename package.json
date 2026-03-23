@@ -1,0 +1,27 @@
+{
+  "name": "treasuregame",
+  "version": "1.0.0",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CookieWorkProject/TreasureGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CookieWorkProject/TreasureGame/issues"
+  },
+  "homepage": "https://github.com/CookieWorkProject/TreasureGame#readme",
+  "description": "",
+  "dependencies": {
+    "mocha": "^11.7.5",
+    "prompt-sync": "^4.2.0"
+  }
+}
