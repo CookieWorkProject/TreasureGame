@@ -19,7 +19,7 @@ const GameState = {
 		this.player.yPos = 8;
 		this.treasure.xPos = 12;
 		this.treasure.yPos = 4;
-		
+		this.gameover = false;
 		
 	},
 	gameStep : function(input)
