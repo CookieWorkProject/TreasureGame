@@ -10,6 +10,7 @@ const GameState = {
 	player : Player,
 	treasure : Treasure,
 	map : GameMap,
+	compass : Compass,
 	gameover : false,
 	
 	initGame : function()
